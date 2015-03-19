@@ -1,0 +1,143 @@
+serDictionary=edu/stanford/nlp/models/segmenter/chinese/dict-chris6.ser.gz
+model=edu/stanford/nlp/models/segmenter/chinese/ctb.gz
+segment=edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator
+Unknown property: |segment|
+sighanCorporaDict=edu/stanford/nlp/models/segmenter/chinese
+inputEncoding=UTF-8
+sighanPostProcessing=true
+untokenizable=allKeep
+Unknown property: |untokenizable|
+Loading classifier from edu/stanford/nlp/models/segmenter/chinese/ctb.gz ... Unknown property: |segment|
+Unknown property: |untokenizable|
+Loading Chinese dictionaries from 1 files:
+  edu/stanford/nlp/models/segmenter/chinese/dict-chris6.ser.gz
+
+loading dictionaries from edu/stanford/nlp/models/segmenter/chinese/dict-chris6.ser.gz...Done. Unique words in ChineseDictionary is: 423200
+done [17.4 sec].
+Reading POS tagger model from edu/stanford/nlp/models/pos-tagger/chinese-distsim/chinese-distsim.tagger ... done [3.2 sec].
+Loading classifier from edu/stanford/nlp/models/ner/chinese.misc.distsim.crf.ser.gz ... done [4.4 sec].
+INFO: TagAffixDetector: useChPos=false | useCTBChar2=true | usePKChar2=false
+INFO: TagAffixDetector: building TagAffixDetector from edu/stanford/nlp/models/segmenter/chinese/dict/character_list and edu/stanford/nlp/models/segmenter/chinese/dict/in.ctb
+Loading character dictionary file from edu/stanford/nlp/models/segmenter/chinese/dict/character_list
+Loading affix dictionary from edu/stanford/nlp/models/segmenter/chinese/dict/in.ctb
+Mar 19, 2015 11:36:50 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:51 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:51 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:51 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:51 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:51 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:51 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:55 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:55 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:55 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:57 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:57 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:57 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:57 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:58 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Error with function of find_durations-findTimexes
+Mar 19, 2015 11:36:58 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:58 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:59 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:59 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:36:59 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:00 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:01 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:01 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:02 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:03 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:04 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:04 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:05 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:06 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:06 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:06 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:07 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:07 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:08 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:08 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:08 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:08 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:08 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:08 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:09 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:10 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:10 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:10 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)
+Mar 19, 2015 11:37:11 AM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: 《 (U+300A, decimal: 12298)

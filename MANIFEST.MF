@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/jdom.jar lib/stanford-chinese-corenlp-2015-01-30-models.jar lib/stanford-corenlp-3.5.1.jar lib/uima-core.jar
+Main-Class: org.archive.sogou.TemChTagger

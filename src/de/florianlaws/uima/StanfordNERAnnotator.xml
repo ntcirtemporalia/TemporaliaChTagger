@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taeDescription xmlns="http://uima.watson.ibm.com/resourceSpecifier">
+<frameworkImplementation>com.ibm.uima.java</frameworkImplementation>
+<primitive>true</primitive>
+<annotatorImplementationName>de.florianlaws.uima.StanfordNERAnnotator</annotatorImplementationName>
+<analysisEngineMetaData>
+<name>StandfordNERAnnotator</name>
+<description>Create Named Entity annotations with the CRF named entity detector of the Stanford NLP Group</description>
+<version>1.0</version>
+<vendor>Florian Laws</vendor>
+<configurationParameters>
+<configurationParameter>
+<name>ClassifierFile</name>
+<description>Filename of the classifier file.</description>
+<type>String</type>
+<multiValued>false</multiValued>
+<mandatory>true</mandatory>
+</configurationParameter>
+</configurationParameters>
+<configurationParameterSettings>
+<nameValuePair>
+<name>ClassifierFile</name>
+<value>
+<string>/home/florian/diplom/tools/stanford-ner-2006-09-18/classifiers/ner-eng-ie.crf-3-all2006.ser.gz</string>
+</value>
+</nameValuePair>
+</configurationParameterSettings>
+<typeSystemDescription>
+<imports>
+<import location="/home/florian/diplom/workspace/ner-da/desc/types/NERDATypes.xml"/>
+</imports>
+</typeSystemDescription>
+<typePriorities/>
+<fsIndexCollection/>
+<capabilities>
+<capability>
+<inputs/>
+<outputs>
+<type allAnnotatorFeatures="true">de.florianlaws.uima.types.Person</type>
+<type allAnnotatorFeatures="true">de.florianlaws.uima.types.Organization</type>
+<type allAnnotatorFeatures="true">de.florianlaws.uima.types.Misc</type>
+<type allAnnotatorFeatures="true">de.florianlaws.uima.types.Location</type>
+<type allAnnotatorFeatures="true">de.florianlaws.uima.types.Annotation</type>
+</outputs>
+<languagesSupported/>
+</capability>
+</capabilities>
+<operationalProperties>
+<modifiesCas>true</modifiesCas>
+<multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+</operationalProperties>
+</analysisEngineMetaData>
+<resourceManagerConfiguration/>
+</taeDescription>

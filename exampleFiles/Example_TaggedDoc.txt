@@ -1,0 +1,34 @@
+﻿<doc id=c172394d49da2142-69713306c0bb3300>
+<meta-info>
+<tag name="host">http://news.sohu.com</tag>
+<tag name="date">2012-06-12</tag>
+<tag name="url">http://news.sohu.com/20120612/n345428229.shtml</tag>
+<tag name="title">公安机关销毁１０余万非法枪支　跨国武器走私渐起</tag>
+<tag name="source-encoding">UTF-8</tag>
+</meta-info>
+<text><SE><E type="ORGANIZATION">中广网</E><E type="GPE">唐山</E><T type="DATE" value="2012-06-12">６月１２日</T>消息（记者汤一亮<E type="PERSON">庄胜春</E>）据<E type="MISC">中国之声</E>《<E type="MISC">新闻晚</E>高峰》报道，<T type="DATE" value="2012-06-12">今天</T>（<T type="DURATION" value="P12D">１２日</T>）<E type="MISC">上午</E>，公安机关<T type="DATE" value="2012">２０１２年</T>缉枪制爆专项行动“统一销毁非法枪爆物品活动”在<E type="LOCATION">河北唐山</E>正式启动，<E type="MISC">１０万余</E>只非法枪支、<E type="MISC">２５０余吨</E>炸药在全国<E type="MISC">１５０</E>个城市被统一销毁。</SE>
+<SE>黄明：<T type="DATE" value="PRESENT_REF">现在</T>我宣布，全国缉枪制爆统一销毁行动开始随着<E type="ORGANIZATION">公安部</E>副部长<E type="PERSON">黄明</E>一声令下，大量仿制式枪以及猎枪、火药枪、气枪在<E type="ORGANIZATION">河北唐山钢铁厂</E>被投入炼钢炉。</SE>
+<SE>与此同时，在全国各省区市<E type="MISC">１５０</E>个城市，破案追缴和群众主动上缴的<E type="MISC">１０万余</E>支非法枪支被集中销毁，在全国各指定场所，<E type="MISC">２５０</E>余吨炸药被分别销毁。</SE>
+<SE><E type="ORGANIZATION">公安部治安局</E>局长<E type="PERSON">刘绍武</E>介绍，这次销毁的非法枪支来源于<E type="MISC">三</E>个方面。</SE>
+<SE><E type="PERSON">刘绍武</E>：打击破案包括涉黑、涉恶的团伙犯罪、毒品犯罪，还有从境外非法走私的枪支爆炸物。</SE>
+<SE>在销毁现场，记者看到了被追缴和上缴的各式各样的枪支。</SE>
+<SE><E type="PERSON">刘绍武</E>：也包括制式枪，有的是军用枪、仿制的制式抢，还有猎枪、私制的火药枪等等。</SE>
+<SE>按照我国的枪支管理法，这些都是严厉禁止个人非法持有的。</SE>
+<SE><E type="GPE">中国</E>是世界上持枪犯罪的犯罪率最低的国家之一。</SE>
+<SE><E type="GPE">中美</E>联手破获特大跨国走私武器弹药案<T type="DATE" value="PAST_REF">近日</T>，<E type="GPE">中美</E>执法部门联手成功破获特大跨国走私武器弹药案，在<E type="GPE">中国</E>抓获犯罪嫌疑人<E type="MISC">２３名</E>，缴获各类枪支<E type="MISC">９３支</E>、子弹<E type="MISC">５万余</E>发及大量枪支配件。</SE>
+<SE>在<E type="GPE">美国</E>抓获犯罪嫌疑人<E type="MISC">３</E>名，缴获各类枪支<E type="MISC">１２</E>支。</SE>
+<SE>这是公安部与<E type="GPE">美国</E>移民海关执法局通过联合调查方式侦破重大跨国案件的又一成功案例。</SE>
+<SE><T type="DATE" value="2011-08-25">２０１１年８月２５日</T>，<E type="GPE">上海</E><E type="MISC">浦东国际机场</E>海关在对<E type="GPE">美国纽约</E>发往<E type="GPE">浙江台州</E>，申报品名为扩音器（音箱）的快件进行查验时，发现货物内藏有手枪<E type="MISC">９</E>支，枪支配件<E type="MISC">９</E>件，长枪部件<E type="MISC">７</E>件。</SE>
+<SE>经检验，这些都是具有杀伤力的制式枪支及其配件。</SE>
+<SE>这引起了公安部和海关总署的高度重视。</SE>
+<SE><E type="ORGANIZATION">公安部刑侦局</E>局长<E type="PERSON">刘安成</E>：因为是从海关进口的货物中检查出来夹带，说明来源地是境外，或是说国外，这应该是一起特大跨国走私武器弹药的案件。</SE>
+<SE><E type="ORGANIZATION">上海市公安局</E>和<E type="ORGANIZATION">上海海关缉私局</E>成立联合专案组，迅速开展案件侦查。</SE>
+<SE>专案组于<T type="DATE" value="2012-08-26">８月２６日</T>在<E type="GPE">浙江台州</E>取件处将犯罪嫌疑人<E type="PERSON">王挺</E>（男，<E type="MISC">３２岁</E>，<E type="GPE">台州市</E>人）抓获。</SE>
+<SE>王挺交代，他通过一境外网站上认识了上家<E type="PERSON">林志富</E>，<T type="DATE" value="2009-11">２００９年１１月</T>以来，<E type="PERSON">林志富</E>长期居住<E type="GPE">美国</E>，他通过互联网组建了一个走私、贩卖、私藏枪支弹药的群体，通过网络在国内寻找枪支弹药买家，并通过<E type="ORGANIZATION">美国联邦速递公司</E>将枪支弹药从<E type="GPE">纽约</E>快递给多名类似王挺的中间人，再通过中间人发送给国内买家。</SE>
+<SE>此案中，犯罪分子依托虚拟网络进行犯罪交易，隐蔽性强，涉案人员使用的身份、地址、联系方式都是虚构的，侦查难度很大。</SE>
+<SE>刘安成说，此案体现了是新型犯罪，特别是现代犯罪的新特点。</SE>
+<SE><E type="PERSON">刘安成</E>：他不受距离的限制、经常是跨国跨境，甚至是跨一个、数个、甚至<E type="MISC">数十</E>个国家。</SE>
+<SE>这种犯罪手法的改变和新型犯罪的特点，要求我们各国警方充分合作。</SE>
+<SE>作者：汤一亮庄胜春</SE>
+</text>
+</doc>
