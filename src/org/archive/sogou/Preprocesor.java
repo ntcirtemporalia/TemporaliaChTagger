@@ -443,8 +443,16 @@ public class Preprocesor {
 			dayStr = dateStr.substring(6, 8);
 		}
 		
-		return yearStr+"-"+monStr+"-"+dayStr;
-		
+		if(2012 != Integer.parseInt(yearStr)){
+			return null;
+		}else{
+			int monInt = Integer.parseInt(monStr);
+			if(monInt<6 || monInt>7){
+				return null;
+			}else{
+				return yearStr+"-"+monStr+"-"+dayStr;
+			}
+		}		
 	}
 	//	/12/0702/
 	private static  String convertDate_1(String rawStr) {
@@ -453,8 +461,12 @@ public class Preprocesor {
 		String monStr = rawStr.substring(4, 6);
 		String dayStr = rawStr.substring(6, 8);
 		
-		return yearStr+"-"+monStr+"-"+dayStr;
-		
+		int monInt = Integer.parseInt(monStr);
+		if(monInt<6 || monInt>7){
+			return null;
+		}else{
+			return yearStr+"-"+monStr+"-"+dayStr;
+		}		
 	}
 	//	/2012/06/11/
 	private static  String convertDate_2(String rawStr) {
@@ -463,8 +475,16 @@ public class Preprocesor {
 		String monStr = rawStr.substring(6, 8);
 		String dayStr = rawStr.substring(9, 11);
 		
-		return yearStr+"-"+monStr+"-"+dayStr;
-		
+		if(2012 != Integer.parseInt(yearStr)){
+			return null;
+		}else{
+			int monInt = Integer.parseInt(monStr);
+			if(monInt<6 || monInt>7){
+				return null;
+			}else{
+				return yearStr+"-"+monStr+"-"+dayStr;
+			}
+		}		
 	}
 	//	/2012/0311/
 	private static  String convertDate_3(String rawStr) {
@@ -473,8 +493,16 @@ public class Preprocesor {
 		String monStr = rawStr.substring(6, 8);
 		String dayStr = rawStr.substring(8, 10);
 		
-		return yearStr+"-"+monStr+"-"+dayStr;
-		
+		if(2012 != Integer.parseInt(yearStr)){
+			return null;
+		}else{
+			int monInt = Integer.parseInt(monStr);
+			if(monInt<6 || monInt>7){
+				return null;
+			}else{
+				return yearStr+"-"+monStr+"-"+dayStr;
+			}
+		}		
 	}
 	//	detail_2012_06/12/
 	private static  String convertDate_5(String rawStr) {
@@ -483,8 +511,16 @@ public class Preprocesor {
 		String monStr = rawStr.substring(12, 14);
 		String dayStr = rawStr.substring(15, 17);
 		
-		return yearStr+"-"+monStr+"-"+dayStr;
-		
+		if(2012 != Integer.parseInt(yearStr)){
+			return null;
+		}else{
+			int monInt = Integer.parseInt(monStr);
+			if(monInt<6 || monInt>7){
+				return null;
+			}else{
+				return yearStr+"-"+monStr+"-"+dayStr;
+			}
+		}		
 	}
 	//	20120611.html
 	private static  String convertDate_6(String rawStr) {
@@ -494,8 +530,16 @@ public class Preprocesor {
 		String monStr = dateStr.substring(4, 6);
 		String dayStr = dateStr.substring(6, 8);
 		
-		return yearStr+"-"+monStr+"-"+dayStr;
-		
+		if(2012 != Integer.parseInt(yearStr)){
+			return null;
+		}else{
+			int monInt = Integer.parseInt(monStr);
+			if(monInt<6 || monInt>7){
+				return null;
+			}else{
+				return yearStr+"-"+monStr+"-"+dayStr;
+			}
+		}		
 	}
 	
 	//test
@@ -564,23 +608,23 @@ public class Preprocesor {
 		
 		//Case-1 SogouCAMini
 		
-		///*
+		/*
 		String oriFile = "collectionTest/news_tensite_xml.smarty.dat";
 		
 		String outputDir = "collectionTest/NoTagVersion/";
 		
-		Preprocesor.toTemporaliaStyle(oriFile, outputDir);
+		Preprocesor.toTemporaliaStyle(oriFile, outputDir);Hh
 		
-		//*/
+		*/
 		
 		//Case-2 SogouCA, a larger dataset
-		/*
+		///*
 		String oriFile = "../../Corpus/SogouCA/news_tensite_xml.dat";
 		
 		String outputDir = "collectionTest/NoTagVersion/";
 		
 		Preprocesor.toTemporaliaStyle(oriFile, outputDir);
-		*/		
+		//*/		
 		
 	}
 
